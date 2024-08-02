@@ -12,7 +12,7 @@
     </a>
   </div>
   <div id="languages">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taieta)](https://github.com/Taieta/github-readme-stats)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taieta)(https://github.com/Taieta/github-readme-stats)
   <\div>
 </div>
 
