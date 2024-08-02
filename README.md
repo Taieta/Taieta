@@ -11,6 +11,9 @@
       <img src="https://img.shields.io/github/followers/Taieta" alt="Followers"/>
     </a>
   </div>
+  <div id="languages">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taieta)](https://github.com/Taieta/github-readme-stats)
+  <\div>
 </div>
 
 
