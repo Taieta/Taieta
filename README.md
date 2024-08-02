@@ -12,8 +12,8 @@
     </a>
   </div>
   <div id="languages">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taieta)(https://github.com/Taieta/github-readme-stats)
-  <\div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taieta&size_weight=0.5&count_weight=0.5)
+  </div>
 </div>
 
 
