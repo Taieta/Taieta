@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/github/stars/Taieta" alt="Stars"/>
     </a>
     <a href="https://github.com/Taieta?tab=followers">
-      <img src="https://img.shields.io/github/followers/Lipen" alt="Followers"/>
+      <img src="https://img.shields.io/github/followers/Taieta" alt="Followers"/>
     </a>
   </div>
 </div>
