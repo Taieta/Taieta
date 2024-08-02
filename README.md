@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="images/github_profile.gif" height="128"/>
+  <img src="images/github_profile.gif" height="300"/>
   <div id="stats">
     <a href="https://github.com/Taieta">
       <img src="https://komarev.com/ghpvc/?username=Taieta" alt="Profile views"/>
@@ -12,6 +12,8 @@
     </a>
   </div>
 </div>
+
+
 # Hell-o, I'm Lena 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&height=100&duration=1500&pause=1000&font=Montserrat&lines=Average+ITMO+University+student;Young+software+developer)](https://git.io/typing-svg)
 
@@ -23,4 +25,4 @@
 
 ⚡ Fun fact: I like alternative metal 
 
-<img src="images/waves.svg" width="100%" height="100">
+<img src="images/waves.gif" width="100%" height="100">
