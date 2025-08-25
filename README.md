@@ -18,17 +18,7 @@
 
 👓 I am already experienced in:
 
-<img src="https://skillicons.dev/icons?i=cs">
-<img src="https://skillicons.dev/icons?i=dotnet">
-<img src="https://skillicons.dev/icons?i=cpp">
-<img src="https://skillicons.dev/icons?i=java">
-<img src="https://skillicons.dev/icons?i=c">
-<img src="https://skillicons.dev/icons?i=latex">
-<img src="https://skillicons.dev/icons?i=arch">
-<img src="https://skillicons.dev/icons?i=neovim">
-<img src="https://skillicons.dev/icons?i=docker">
-<img src="https://skillicons.dev/icons?i=python">
-
+<img src="https://skillicons.dev/icons?i=cs"> <img src="https://skillicons.dev/icons?i=dotnet"> <img src="https://skillicons.dev/icons?i=cpp"> <img src="https://skillicons.dev/icons?i=java"> <img src="https://skillicons.dev/icons?i=c"> <img src="https://skillicons.dev/icons?i=latex"> <img src="https://skillicons.dev/icons?i=arch"> <img src="https://skillicons.dev/icons?i=neovim"> <img src="https://skillicons.dev/icons?i=docker"> <img src="https://skillicons.dev/icons?i=python"> 
 
 ⚡ Fun fact:
 You should listen [him](https://open.spotify.com/artist/5eo5Q2nOgoPOyl3HvO6xoK?si=P7OP_FPvTHuFl5z3Zco2xQ)
